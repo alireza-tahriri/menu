@@ -8,14 +8,9 @@ This is a professional and user-friendly package for building menus, These are p
 <img width="500" alt="first-img-menu-alirezatahriri" src="https://user-images.githubusercontent.com/40925702/122831585-4f11eb80-d2ff-11eb-9acd-635e140cb150.png">
 <img width="500" alt="second-img-menu-alirezatahriri" src="https://user-images.githubusercontent.com/40925702/122831653-723c9b00-d2ff-11eb-8796-c5241c47b625.png">
 
-Download with HTTPS:
-<blockquote>https://github.com/alireza-tahriri/menu.git</blockquote>
-
-Download with SSH:
-<blockquote>git@github.com:alireza-tahriri/menu.git</blockquote>
-
-Download with GitHub CLI:
-<blockquote>gh repo clone alireza-tahriri/menu</blockquote>
+# Customize
+<blockquote>If you need to customize Events and other things... open js file <code>PATH: /assets/js/main.js</code></blockquote>
+<blockquote>If you need to customize colors, backgrounds and other things... open css file <code>PATH: /assets/css/style.css</code></blockquote>
 
 # Contact me
 - 👋 Hi, I’m @alireza-tahriri
